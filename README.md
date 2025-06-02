@@ -37,7 +37,6 @@ Application Scenarios of Traffic Sign Detection in Autonomous Driving.
 </table>
 
 * The file structure of the downloaded dataset is as follows.
-* Please note that the `detection` folder within the CDSD dataset contains bounding box labels, which can be used for comparison with object detection methods.
 
 ```
 datasets
