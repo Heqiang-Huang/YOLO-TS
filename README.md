@@ -33,6 +33,13 @@ Application Scenarios of Traffic Sign Detection in Autonomous Driving.
     <th> <a href="https://pan.quark.cn/s/b4b672efc69b">Download (xkND)</a> </th>
     <th> <a href="https://pan.quark.cn/s/eb6c18fb4ec5">Download (is1U)</a> </th>
   </tr>
+   <tr>
+    <th>Google Drive</th>
+    <th> <a - </a> </th>
+    <th> <a - </th>
+    <th> <a - </a> </th>
+    <th> <a href="https://drive.google.com/drive/folders/1bbIGjhTXnWIgicjVX_L2kxxeKGlGdik9?usp=sharing">Download</a> </th>
+  </tr>
 </tbody>
 </table>
 
