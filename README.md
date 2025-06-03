@@ -121,6 +121,10 @@ The trained weight files for different datasets are listed below, including both
     <th>Quark Cloud</th>
     <th colspan="2"> <a href="https://pan.quark.cn/s/6a3002dfaab0">Download (MQC4)</a> </th>
   </tr>
+   <tr>
+    <th>Google Drive</th>
+    <th colspan="2"> <a href="https://drive.google.com/drive/folders/1l-em856gi4810U7qU1fo0epdfbJ3_sus?usp=sharing">Download </a> </th>
+  </tr>
 </tbody>
 </table>
 
