@@ -27,7 +27,7 @@ Application Scenarios of Traffic Sign Detection in Autonomous Driving.
 </thead>
 <tbody>
   <tr>
-    <th>Download</th>
+    <th>Quark Cloud</th>
     <th> <a href="https://pan.quark.cn/s/24062830411b">Download (PDkS)</a> </th>
     <th> <a href="https://pan.quark.cn/s/ea20e9bfb364">Download (XTy3)</a> </th>
     <th> <a href="https://pan.quark.cn/s/b4b672efc69b">Download (xkND)</a> </th>
